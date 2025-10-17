@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.postimg.cc/wTcMfSb6/Sorin-Software-Private-Banner.png"/>
+  <img src="https://github.com/sorinservice/.github/blob/main/SorinSoftwarePrivateBanner.png"/>
 </p>
 ---
 
